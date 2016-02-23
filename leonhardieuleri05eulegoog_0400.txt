@@ -1,0 +1,39 @@
+390 CAPUT 1.
+
+pendentes ‚ solo initio ae fine excepto , ubi eas ad datas superliniee
+accommodari oportet.
+
+Definitio 4.
+
+2 Ο . Relatio inter ternas variabiles unica aequatione defi-
+nita, ut una earum aequetur functioni binarum reliquarum, va-
+riari dicitur, si vel una vel omnes tres illae variabiles particulis
+infinite parvis auqeantur‚ quae earum variationes vocantur.
+
+· Explicati'o.
+
+21. Quoniam hic relatio inter ternas ‘variabiles unica aequa·
+tione definiri ponitur, duabus pro arbitrio sumtis tertia demum de·
+terminatur, ita ut pro functione duarum variabilium sit habenda.
+Ea ergo relatione non quaedam linea curva, si rem ad figuras
+transferre velimuS, indicatur, sed tota quaedam superficies, cujus
+natura aequatione inter ternas· coordinatas exprimitur, ex quo intel-
+ligitur, eadem relatione variata aliam superficiem ab illa infinite pa-
+rum dissidentem repraesentari, quae variatio ita latissime patere de·
+bet, ut variatio vel tantum ad quampiam superficiei portionem re·-
+stringi vel per totam extendi possit. Prout igitur eum quovis su·
+perficiei datae puncto aliud punctum superficiei variatae illi quidem
+proximum comparatur, fieri potest, ut non solum trium coordinata-
+rum una sed etiam duae vel adeo omnes tres varientur3 unde quo
+tractatio in omni amplitudine instituatur, conveniet statim singulis
+‘coordinatis suas tribui variationes, quas propterea ita comparatas
+esse oportet, ut tanquam functiones binarum variabilium spectari
+
+possint, eum binis demum determinatis superficiei punctum deter-
+minetur. ·
+
+'Corollarium 2.'·
+
+22. Si igitur tres variabiles seu coordinatae sint x, y et z,
+quemadmodum ex relatione binis x et y pro lubitu valores tribuere
+

@@ -1,0 +1,38 @@
+CAPUT IL( ,η
+
+mecm est nt ctiam nd cos casus pateat, quibus cordae bitin
+figura irregularis nullo continuitatis nexu praedita inducatur ‚ qnod
+fieri uon posset, nisi per integrationem ejusmodi functio arbitrio
+nostro relicta ingrederetur, quam ctiam ad figuras irregulares adap-
+tare liceret. Hujusmodi functiones arbitrarius, prouti hic seci, ejus·
+inodi signandi modo fzy indicabo, unde cavendum erit ne littera,
+s pro quantitate habeatur, quocirca ipsi colon suffigere visum est.
+Simili modo in sequentibus haee scriptio f:(x-}—y) denotabit func·
+tionem arbitrariam quantitatis x-i-y3 ac ubi plures tales functiones
+in caleulum ingredientur, praeter litteram s etiam his characteribus
+Φ, ψ, ο, etc. cum simili significatione utar.
+
+Problema ὃ.
+
+39. investigare indolem functionis z binarum variabiiium x “
+
+et y, ut formula differentialis (Ξῖ) .··-.;’ ρ aequalis fiat functioni datae
+ipsius x, quae sit X, ita ut sit pzx.
+
+Solutic.
+
+Posito bzzpr-4-qby, ob p :X erit bzszt —i—‚qbyg
+quiajam hujus differentialis pars Χᾶω est data, ad integrale in·
+veniendum accipiatur y constans, et cum sit 325: XeJx, erit inte·
+grando z: J Xbx÷Const. quae constans cum etiam quantitatem
+y utcunque implicare possit, pro ea assumere licebit functionem
+quamcunque arbitrariam ipsius y, eritque ergo integrale quaesitum
+
+ita ut sit q εἴη, atque (32:X, plane ut requirebatur.
+
+- Corollarium 1.
+«tn. Aequationis crgo &Dr-X, existente z structione duc·
+
+mm variabiliuaoe et u, integr-aie eet 2:11324-‘1592 ubi ob
+. voi. 111.
+

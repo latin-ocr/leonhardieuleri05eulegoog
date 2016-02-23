@@ -1,0 +1,34 @@
+C'AP UT ΙΠ.
+
+DE
+
+RESOLUTIONE AEQUATIONUM QUIBUS BtNARtJM FORMU-
+LARUM DIFFERENTIALIUM ALTERA PER ALTERAM
+UTCUNQUE DATUR.
+
+Problema 10.
+
+73.
+
+Si z ejusmodi esse debeat functio binarum variabilium x et y, ut
+formulae differentiales (ἐξ) et (ζῇ-ἆ ²) inter se fiant aequales, indolem
+istius functionis in genere determinare.
+
+solutio.
+
+Ponatur (ἒξ-τ) ρ et (g——): q, ut sit &zzpbx—ff-qby,
+'haecque formula p3x÷q3y integrationem sponte admittat. Quo-
+'niam igitur requiritur ut sit q -ρ, ·e1·it &z :p (Bx÷By)‚ et
+posito x —l-—yz ιι, fiet bzzpbu, quae formula eum debeat esse
+per se integrabilis, necesse est ut p sit functio quantitatis variabilis
+ιι, nullam praeterea aliam variabilem involuens; hincque integrando
+ipsa quantitas z: sp ὸιι aequabitur functioni ipsius u . seu prodi-
+bit z :fz ιι, quae functio omnino arbitrio nostro relinquitur, ita
+ut pro z functio quaecunque ipsius ιι sive continua sive etiam dis-
+continua assumta problemati satisfaciat. Quare 'cum sit uzx—t—y,
+erit pro solutione nostri problematis zzf:(x-÷—y). Quae forma,
+quo facilius appareat, quomodo conditioni praescriptae satisfaciat,
+fit B.s:u:Dus':u‚ ideoque ob uzzx -1-y erit
+
+ 
+

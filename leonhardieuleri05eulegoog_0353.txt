@@ -1,0 +1,40 @@
+CAPUT 11. 343
+
+Solutio.
+
+Cum aequatio propositam continens relationem alias {ormu-
+las differentiales praeter memoratas non comprehendat, in ea binae
+quantitates y et z pro constantibus habentur, ideoque etiam in sin-
+gulis integrationibus tanquam tales tractari possunt. Hinc aequatio
+proposita duas tantum variabiles x et v involvere est censenda, et
+rejectis for'mularum differentialium vinculis ‚ habebitur aequatio diffe-
+
+· rentialis ad librum primum referenda, in qua, si ad altiores gradus
+
+exsurgat, elementum aa: constans sumtum ,est putandum. Quodsi
+ergo praeceptorum ibidem traditorum ope haec aequatio integrari
+queat, tum loco constantium per singulas integrationes ixigressarum
+substituantur functiones arbitrariae binarum variabilinm y et z,
+
+veluti
+F:(y et z), Δερ] et z), etc.
+
+sicque habebitur solutio completa problematis propositi.
+
+Corollarium 1.
+
+462. Praeter plurimos igitur integrabilitatis casus in libro
+Ι. expositos , etiam sequentes aequationes differentiales quamtumvis
+alti gradus resolutionem· admittent
+
+S=Av÷B (349ψο (ἓξ-ὒ-ι-Ι) (232³)-l-etc„ et
+
+εεΑυ-ψ-Βωᾴξγῐ-εωἾξξ-ξ)-ι-Βω-ῧᾷξῦ-ὶ-εω.
+
+Corollarium 2.
+
+463. vinculis enim abjectis ejusmodi habentur aequationes
+differentiales ‚ quales in extremis capitibus libri Ι. integrare docui-
+mus.. Tantum opus est, ut loco constantium per integrationes in-
+gressarum scribantur tales functiones
+

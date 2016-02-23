@@ -1,0 +1,32 @@
+*CAPUT Ι.
+
+DE
+
+JORMULIS DIFFERENTIALIBU'S' SECUN DI GRADUS m
+. GENERE.
+
+Pjrobl'ema 38..
+220.
+
+Si z sit functio quaeeunque binarum variabilfum· x· et y, ej'us fin:-
+mulu differentioeiee secundi grad'uz exhibere.
+
+’ solutio*-
+
+Cum. z sit functio binarum variabiiium oe· et· y„ ejas differem·-
+tiaie huJusmodi habebit · formam
+
+bz.=p.Bae-1-q·33,·
+ex qua· p et ς’ sunt formulae differentiales primi graffum quat ita
+denotare solemus
+
+p z (ἐξ) et «rr-(33²4).
+enm nnnc- ‚tint quoque p et q functiones ipsarum ,ατ et y, fermu- ’
+Iae differentiales inde natae erunt formulae differentiales secundi
+gradus ipsius z, unde intelligitur quatuor hujusmodis formulas nesci.
+
+‹33› (33) (33) ‹3-3)
+quarum autem secundam ae tertiam inter· se· congruere ἰὴ cercuro
+differentiali est demonstratum-‘4 Sed‘ eum sit p ,tr-(g, ἦ), simili scri-
+bexidi tatione eri't (ἕξ) ’.ἰ-’(Ξὲ 33²2) cujus scripturae significatur hine·
+

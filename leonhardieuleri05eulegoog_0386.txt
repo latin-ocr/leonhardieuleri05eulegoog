@@ -1,0 +1,41 @@
+376 CAPUT IV.
+
+quae si in factores simplices formae ax -ι- by -1- cz resolvi queat,
+simul inde aequationis differentialis integrale completum facile exhi-
+bebitur , cum quilibet factor functionem duarum variabilium suppedi-
+tet, integralis partem constituentem; ita ut etiam haec pars seorsim
+sumta'aequationi differentiali satisfaciat et ’pro integrali particulari
+haberi possit. At si illa expressio algebraica. ita suerit comparata,
+ut factores quidem habeat simplices sed non tot, quot dimensiones,
+singuli quidem integralia particularIa praebebunt, quae autem jun-
+ctim sumta non integrale completum suppeditabunt. Veluti si pro—
+ponatur haec aequatio differentialis tertii gradus
+
+“32:3st ’4- ὖ(ἐ-ξτ) ··· a<3{³3{-2) - Massss‘ss.) a: o,
+
+ 
+
+ 
+
+quia forma algebraica
+axxy -1- bxyy -— axzz -- byzz
+
+factorem habet simplicem ax -l- by, illi utique satisfaciet valor
+υΣ-Γ ²<÷ -- } et z), pro integrali autem completo adhuc desunt
+duae functiones arbitrariae, integrale completum hujus aequationis
+(ffiaffffi)-(g{}):o continentes, ex qua quippe alter factor xy—-zz
+illius expressionis nascitur. Quoties ergo hae expressiones algebrai-
+
+cae ex aequationibus differentialibus ,homogeneis altiorum graduum ι
+formatae resolutionem in factores, etsi non ‘simplices ‚ admittant;
+hinc saltem discimus, quomodo earum integratio ad ‚aequationes in-
+
+, seriorum graduum revocari possit, quod in huiusmodi arduis investi-
+
+gationibus sine dubio maximi est momentI.
+
+Scholion 2.
+
+51-0. Haec sunt quae de functionibus trium variabilium ex
+data quadam differentialium relatione investigandis proferre potui,
+

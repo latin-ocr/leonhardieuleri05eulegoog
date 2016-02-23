@@ -1,0 +1,38 @@
+ssu CAPUT Ι.
+Scholion 1.
+
+443. ln calculo quidem differentiali parum refert, utrum
+funotio differentianda unam pluresve variabiles involvat, eum prae·
+cepta differentiandi pro quovis variabilium numero maneant eadem3
+quam ob causam etiam calculum differentialem secundum hanc
+functionum *satietatem in diversas partes distingui non erat. opus.
+Longe secus autem accidit in calculo integrali ‚· quem secundum
+hane functionum varietatem omnino in partes dividi necesse est,
+quippe quae partes tam ratione propriae indolis quam ⁴‚ratione prae-i
+ceptorum maxime inter se diserepant. Quemadmodutn igitur hane
+partem cirea functiones trium variabilium occupatam tractari con·
+veniat, exponendum videtur. Ac primo quidem ii casus commodis-
+sime evolventur‚ quibus unius cuiusdam formulae differentialis valor
+datur , ex quo indolem functionis quaesitae definit-i oporteat ,, quo·
+niam haec investigatio nulla laborat difficultate. Deinde hujusmodi
+quaestiones aggi-edim· , quibus relatio quaepiam inter duas pluresve
+formulas diffeientiales proponiturz ubi quidem plurimum refert ‚ eu-
+jusnam gradus eae sueiint ‚ siquidem ex primo gradu plures casus
+expedire licet, dum ex altioribus vix adhue quiequam in medium
+
+. afferri potest: hunc ergo ordinem in ista tractatione observabo.
+
+Scholion 2.
+
+444. Videri hic posset, ad functiones trium vai-labilium de·
+finiendas, duas· adeo conditiones seu relationes inter formulas diffe-
+
+rentiales admitti posse, neque unica praescripta quaestionem esse
+determinatam. Quodsi ‚enim ponatur
+
+ὃν -Ξ Ρόω —1— ‘1321 -l- ³·Bz ‚
+ubi litterae p, q, r. vicem gerunt formularum differentialium primi
+
+gradus, atque vet-bi gratia hae duae proponantur conditiones, ut sit
+q ··...····.. p et r Ξ p , ’
+

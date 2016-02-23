@@ -1,0 +1,40 @@
+472 CAPUT ,ΠΕ
+S c h olio n.
+
+153. Quoniam binae variabiles x et y prorsus a se in-
+vicem non pendent, ita ut altera adeo eundem valorem retinere
+
+queat,¹ dum altera per omnes valores possibiles variatur , evidens
+
+est, hujusmodi formulam differentialem ἐξ , quippe quae nullum
+
+plane significatum certum esset habitura, in calculo nunquam lo·
+cum invenire posse. Contra vero cum quantitas z sit functio ip-
+
+sarum x et y ‚ hae formulae (ἒ), (ὃ-Ύ) et reliquae ornnes quas
+
+supra sum contemplatus, definitos habent significatus, neque ullae
+aliae in caleulum ingredi possunt. Deinde quia semper quaestiones
+hue pertinentes eo reducere lieet, ut z tanquam functio binarum
+
+x et y spectari possit, ejusmodi formulae (32) ,· ubi quantitas z
+
+esset pro constanti habita, hinc prorsus excluduntur, neque ullae
+aliae praeter supra memoratas in calculo admitti sunt censendae,
+sicque omnes expressiones a formulis integralibus liberae praeter
+ipsas variabiles x, y, z alias formulas differentiales non implica-
+bunt praeter eas, quarum variationes hie sunt indicatae.
+
+Problema 18.
+
+154. Si z sit functio ipsarum x et y, eique tribuatur va-
+riatio dz utcunque ab a> et y pendens ‚ tum vero fuerit V quan-
+titas quomodocunque· ex tribus variabilibus ω, y, z earumque dif-
+ferentialibus cujuscunque ‘ordinis composita ‚ ejus variationem SV
+investigare.
+
+Soluti05
+
+Ut in expressione V speeies differentialium tollantur ‚ pona-
+mus ut haetenus fecimus
+

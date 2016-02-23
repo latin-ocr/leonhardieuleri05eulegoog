@@ -1,0 +1,45 @@
+ 
+
+CAPUT 1 9
+
+canu tum ejus investigetur aequatio integralis completa, quae ergo
+constantem arbium-iam C complectetur. Deinde haec consum C
+consideretur ut fiiuctio quaeeunque ipsius z ‚ atque liae z nuno
+etiam pro variabili habita , aequatio integralis inventa denuo diffe-
+rentiam-3 ut omnes tres x, y et z tanquam variabiles nectentur,
+et aequatio differentialis resultans comparetur cum proposita
+
+Pax -ι- Qay -Ι- sz z: ο,
+
+vbi quidem functiones P et Q sponte prodibunt, at functio R cum
+ea quantitate , qua elementum az afficitur , collata determinabit ra·
+tionem , qua quantitas z in illam litteram C ingreditur ,ι sieque ob-
+tinebitur aequatio integralis quaesita, quae simul erit completa, eum
+semper in illa litterae C pars quaedam constans vere arbitraria
+relinquatur , eum' haee determinatio ex differentiali ipsius C sit ·
+
+petenda.
+
+corollarium 1.
+
+8. Redueitur ergo integratio hujusmodi aequationum differen-
+tialium tres variabiles continentium ad integrationem aequationum
+differentialium inter duas tantum variabiles , quae ergo quoties li·
+
+'eet per methodos in superiori libro traditas , est instituenda.
+
+corollarium 2.
+
+9. Haec ergo integratio tribus modis institui potest , prout
+
+primo vel z, vel y, vel x tanquam constans spectatur. Semper
+
+autem neeesse est, ut eadem aequatio integralis resultet, siquidem
+aequatio differentialis {inerit realis. · ἱ
+corollarium 3.
+
+1ο. Quodsi haee methodus tentetur in, aequatione different·-
+
+tiali impossibili, determinatio illius constantis C nou ita suecedet,
+vol. 111. 2
+

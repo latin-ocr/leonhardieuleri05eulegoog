@@ -1,0 +1,42 @@
+444 CAPUT IV.
+
+Scholion l.
+
+114. Quamquam natura variationum atque etiam quaestio·
+num eo ’ pertinentium jam satis est explicata, tamen hujus· argu·
+menti tam dignitas quam novitas ampliorem' illustrationem requirere
+videntur , cum ne superfluum quidem foret eadem saepius incul-
+cari. Cum 'igitur ante geometria et hujus calculi applicatione ad
+maxima et minima usi simus, ad hanc doctrinam magis explanan-
+dam , hic rem generalius pro sola Analysi contemplabimur. Primo
+igitur spectatur relatio quaecunque inter binas variabiles x et y,
+sive ea sit cognita , sive demum definienda, indeque formata consi·
+deratur formula integralis quaecunque Πᾶν, quae intra certos ter-
+minos comprehensa , seu integratione a dato initio ad datum finem
+extensa, utique certum quendam valorem recipere debet. Tum illa
+
+. relatio inter x et y, quaecunque fuerit, quomodocunque infinite pa·
+
+rum immutetur, ut singulis κζ variationibus quibuscunque δει· ειιοῐίε,
+jam respondeant eaedem y , variationibus quoque quibuscunque dy
+auctae , ubi quidem 'observandum est„ tam in initio quam in fine
+rationum harum variationum - per conditiones quaestionum dari, in
+medio autem istas variationes ita generaliter assumi, ut nulla plane
+lege inter se connectantur. Tum ex hac relatione variata ejusdem
+formulae integralis sVbx ab eodem initio ad eundem finem expan-
+sus , seu intra eosdem terminos contentus , definiri concipitur, ·ac
+tota jam quaestio in hoc versatur ‚ ut hujus postremi valoris va·
+riati excessus supra priorem illum valorem formulae sVDx investi· ’
+getur. Qui excessus cum per &svam ,' quae forma ipsa est varia-
+tio formulae sVBx , indicetur ‚ hujus quaestionis solutionem hactenus
+dedimus ita late patentem ‚ ut omnes casus quibus quantitas V est
+functio quaecunque non solum ipsarum ω, y, p, q, r. S, etc. sed
+etiam insuper formulam quandam integralem υ ΞῙῖΒόω utcunque
+involvens ‚ in se complectatur.
+
+ 
+
+ 
+
+ 
+

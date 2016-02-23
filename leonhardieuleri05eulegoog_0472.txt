@@ -1,0 +1,34 @@
+462 CAPUT ἠν.
+
+corollarium 2.
+
+138. Etiamsi hic conditionum, quae forte pro initio et fine
+integrauenis proponantur, nondum ratio habetur, tamen ea jam oc-
+culte in calculum ingreditur, quia litterae Ι et A terminos integra·
+tionis respiciunt. Interim tamen eae in ipsa aequationum differen-
+tialium tractatione iterum ex calculo expelluntur3 dum euim formula
+integralis JLDx: 1 eliditur, simul quantitas constans A egreditur.
+
+Corollarium 3.
+
+189. ExpeditIs autem aequationibus his duabus differentia·
+libus, 'idque generalissime , ut totidem constantes arbitrariae in eal·
+culum invehantur , quot integrationes institui oportuit ‚ tum demum
+ad conditiones utriusque termini integrationis formulae Jde est
+attendendum , quandoquidem hine ex reliquis variationis membris
+absolutis illae constantes determinari debent.
+
+scholion.
+
+1 40. solutio hujus problematis ita est comparata ut ja'm
+satis sit perspicuum ‚ quemadmodum etiam formulas magis compli-
+catas, veluti si functio V plures formulas integrales involvat, vel si
+quoque 513 formulas novas integrales complectatur ‚ expediri eonve-
+nist. Quin etiam 'nunc est manifestum ‚ si hujusmodi formulae in·
+tegrales plures tribus variabiles contineant ‚ quomodo tum variatio-
+nes inveniri oporteat , atque adeo non solum taediosum 'sed etiam
+superfluum foret si copiosius hoc argumentum persequi vellem. Ad
+partem igitur hujus doetrinae alteram multo abstrusiorem progre-
+dior, ubi etiam relationibus inter variabiles constitutis duae pluresve
+a se invIcem minime pendentes iu calculo relinquuntur.
+

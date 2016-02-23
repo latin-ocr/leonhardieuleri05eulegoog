@@ -1,0 +1,41 @@
+328 ⁵ ’ οΑΡὺΤ 1.
+
+investiganda , proponitur , qualibet integratione introduci functionem
+quamcunque arbitrariam binarium variabilium , atque· adeo in hoc
+consistere criterium, quo¹ haec pars cuiculi integralis a praeceden-
+tibus distinguitur. Quemadmodum enim ‚ dum natura ffinctionum
+unicae variabilis ex data differentialium conditione investigatur, in
+quo universus liber primus est occupatus , per quamlibet integratio·
+nem quantitas constans arbitraria in calculum invehitur, ita in
+parte praecedente-hujus secundi libri vidimus, si functiones bina-
+rum variabilium ex data. formularum differentialium relatione inve-
+stigari debeant, tum ad essentiam hujus tractationis id pertinere ,
+quod qualibet integrationeae non quantitas constans sed adeo func·
+tio unius variabilis prorsus arbitraria in calculum introducatur3 etsi
+enim plerumque hae functiones veluti Γ 2 (aar -ι-βῃ) ambas varia-
+biles ει· et y implicabant, tamen ibi tota quantitas ax -1- βξ]
+ut unica spectatur, cujus functionem quamcunque illa formula
+1⁴: (cxx —1-ssy) denotat. Nunc igitur, ubi de functionibus trium
+variabilium agitur, probe notandum est , qualibet integratione func·
+tionem arbitrariam duarum adeo variabilium in calculum introduci:
+
+ex quo simul indolem integrationum , quae circa functiones plurium
+variabilium versantur, colligere licet.
+
+Problema 622
+
+440. Si sit v functio· quaecunque trium variabilium x,
+
+y vet z ‚ ejus formulas differentiales secundi altiorumque graduum
+exhibere.
+
+· Solutim
+
+Cum ejus formulae differentiales 'primi gradus sint tres·
+(ἐξ), (3-3), (ἓξ),
+, quaelibet instar novae functionis considerata iterum tres suppedi-·
+
+ 
+
+ 
+

@@ -1,0 +1,43 @@
+ 
+
+CAPUT VI.-
+
+DE
+
+VARIATIONE FORMULARUM DlFFERENTlALIUM TREs vA-
+RIABILES INVOLVENTmM , QUARUM RELATIO UNICA
+“ AEQUATIONE com-mmm.
+
+problema 15.
+
+141.
+
+Proposita aequatione inter tre· variabiles x , y et z, quibus varia·
+tiones quaeeunque δατ, Sy, δι tribuuntur, definire variationes formu·
+larum differentialium primi gradus
+
+ΡΞΩ-Ξ) θῖν’-(ἒξ)
+
+Solutio
+
+cnm unica aequatio inter tree variabiles dari ponitur, qnae·
+libet earnm tanquam funetio binarum reliquarum spectari potent.
+Erit ergo z functio ipsarum x a y, et meminisse hie oportet ex·
+
+pressionem (ἓξγ- ..... p denotare rationem differentialium ipsarum z
+et x, si in aequatione illa data hae solae ut variabiles tracten-
+
+ 
+
+tur, nenia y pro constante habita ‚ quod idem de altera formula ’
+
+)--··......··· p‘ est tenendum. Simili modo ipsae qnoque variationoe
+
+Exy, Sy, δε ut functiones infinite parvae binarum variabilinm x et
+y spectari possunt, quoniam si etiam a tertia z penderent, haee
+
+ipsa est fimetio ipsarum a: et 93 unde timul intelligitur quid
+istae formulae
+
+(ἒξ) <-—— ζ), nem (Q). ‹-) et (ΞΖ). (ζ’-ξ)
+

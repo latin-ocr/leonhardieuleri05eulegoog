@@ -1,0 +1,44 @@
+εει capua· 11.‘,
+
+benda, neque si ad amplitudinem spectamus, quiequam cedere vide·
+tur superioribus solutionibus, quae binas functiones arbitrarius invol-
+vunt, propterea quod hie duplicis generis coe‘fficientes arbitrarii
+occurrunt, interim ,tamen haud liquet, quomodo functiones disconti·
+nuae hac relatione repraesentari queant.
+
+Corollarium· 1.
+
+283. Pro solutione ergo particulari invenienda, sumantur
+bini numeri m et n, ut eorum productum sit muza, eritque
+
+z ;·.·; Α cmx-puy· Atque etiam ex iisdem numeris permutatis ¹ erit
+z ..····.·.·. A θ’ 4¹³7.
+
+corollarium 2.
+
+284. Ex tali ⁴numerorum m et η pari, ut sit mur-‘'La,
+
+solutiones quoque per sinus et cos‘inus angulorum exhiberi possunt3
+erit enim
+
+zzz Bsin. (mx - ny), vel z: B cos. (mx—ny),-
+vel etiam permutando
+
+z..··..·:'Bsin.(n2:--my), vel zzsscos.(nx-my).
+
+Corollarium 3.
+
+285. Cum igitur hujusmodi formulae innumerabiles exhiberi
+
+κ queant, singulae per constantes quascunque multiplicatae et in unam
+
+summam collectae dabunt solutionem generalem problematis.
+
+Scholion.
+
+286. Neque tamen haec solutio, etsi infinities infinitas deter-
+minationes recipit, ita est comparata, ut ejusmodi solutionibus, quae
+binas functiones arbitrarius involvunt, aequivalens aestimari possit;
+
+propterea quod non patet, quomodo singulas litteras assumi opor-
+

@@ -1,0 +1,42 @@
+384 ’ CAPUT Ι.
+
+definitionem duplici modo variari potest, altero quo manentibus* va·
+loribus x, 'singulis y variatio tribuitur, altero vero quo manentibus
+valoribus y , singuli x variari 'concipiuntur. Nihil igitur prohibet,
+quo minus utraque variabilis simul· suas variationes recipere intelli·
+gatur, quas adeo ita capere licet, ut nullo plane nexu inter‘se co·
+haereant, duplex ergo hic variatio consideratur, cum in definitione
+prima unica tantum sit. admissa. Rem autem hic ita generaliter
+contemplamur, ut neutra variatio ulli legi sit adstricta, neque etiam
+variationes ipsius y ullo modo a variationibus ipsius a: pendeant.
+
+Corollarium 1.
+
+, 8. Ex casu-ergo qu‘o duplex variatio statuitur, casus prior
+tanquam species nascitur, si variationes alterius variabilis plane
+
+’ rejiciantur, unde manifestum est casum definitionis secundae in se
+
+complecti casum primae.
+
+,Corollarium 2.
+
+9. Hinc magis elucet, quemadmodum data relatio inter bi-
+nas variabiles infinitis modis variari possit, simulque intelligitur,
+quoniam has variationes nulli legi adstrictas assumimus, omnes om-
+nino illius relationis variationes possibiles hac ratione indicari.
+
+seh-olion 1.
+
+19. variationes quidem alterutri tantum variabili Inductae
+jam omnes variationes possibiles, quae in propositam relationem
+inter binas variabiles cadere· possunt, comprehendunt, ut superfluum
+videri possit calculum ad 'duplicem variationem accommodari, verum
+si indolem rei, usumque'cui destinatur, attentius contemplemur, dupli·
+cis variationis consideratio neutiquam supervacanea deprehendetur,
+id quod per Geometriam evidentissime sequentem in modum illu·
+strabitur. Cum relatio quaecunque inter binas variabiles dis-
+tinctissime per lineam curvam in plano descriptam repraesente-
+
+ 
+

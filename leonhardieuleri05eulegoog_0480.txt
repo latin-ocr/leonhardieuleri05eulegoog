@@ -1,0 +1,41 @@
+470 · - CAPUT vr.
+
+referamuss quibus eaedem binae coordinatae x et y respondeant,
+solaque tertia z variationem patiatur. Quin etiam haec suppositi0‚
+cum ad formulas integrales progrediemur, eo magis est necessaria,
+quandoquidem semper totum negotium ad ejusmodi formulas inte
+grales perducitur, quae duplicem integrationem requirunt, in qua-
+rum altera sola x in altera vero sola y ut variabilis tractatur· ,
+nIsi ergo harum variationes nullae statuantur, maxima incommoda
+inde in caleulum inveherentur-3 qui eum per se plerumque sit dif-
+ficillimus ‚ minIme consultum videtur , ut ex hac parte difficultates
+multiplicentur. Quamobrem hanc tractationem ita sum expediturus,
+ut in · posterum· perpetuo binis variabilibus τι· et y nullas plane va·
+riationes tribuam , solamque tertiam z variatione quacunque δι au-
+geri assumam , ubi quidem oz ut functionem quamcunque ipsarum
+a: et y sive continuam sive discontinuam sum spectaturus.
+
+Proble'ma 1⁷.
+
+1 50. si z fuerit functio quaeeunque ipsarum x et y, ei-
+que tribuatur variatio δι pariter utcunque ab x et y pendens. in-
+vestigare variationes formularum omnium differentialium cujuscun-
+
+que ordinis.
+
+Solutim
+
+Pro differentialibus primi gradus habentur hae duae formulae
+Ρ- - (ἓ- ξ) et p‘ z: (}- -}‚)
+
+quarum variationes cum x et y nullam variationem pati concipian-
+’ tur, ex supra inventis ita se habebunt
+
+· Pro differentialibus secundi ordinis hae tres formulae habentur
+
+4- ... (993) er...- ····· (ἂῖἃζω-ς) et qv τ. ‹gl-33),
+
+ 
+
+ 
+

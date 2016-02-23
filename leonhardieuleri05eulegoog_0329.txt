@@ -1,0 +1,35 @@
+CAPUT HL am
+
+Corollarium 1.
+
+426. Casu radicum aequalium pel-Inde est, ,utra serie geo·'
+metrica utamur ,‘ siquidem functiones neque sint ipsius x neque ip·
+sius y tantum. Sin autem ⁵hae functiones fuerint vel ipsius x vel
+ipsius y tantum , tum alterius variabilis diversae progreasione geo-
+metrica uti oportet. '
+
+Corollarium 2.
+
+42 7 . si in aequatione algebraica termini initiales A' ,“ Β , ·
+C, etc. evanescant, ut radicum numerus exponente λ minor esse
+videatur ‚ tum radice‘s deficientes pro infinite magnis sunt haben·
+dae , ,quibus functiones ipsius x tantum respondebunt, in integrale
+introducendae. ‘
+
+Corollarium 3.
+
+428. Ita si fuerit A: 0, Bzo' et C z: 0, tres radi-
+ces ω, β , ‘Y in infinitum excrescere sunt censendae , ex quibus
+nascetur pars integralis:
+
+Γεω-μῃΔεω-ι-ψΣτω.
+
+seholiom
+
+429. Quoniam haee pars calculi integralis vii} excoli eoe-
+pit , ideoque hujus generis investigationes· adbuc prorsus sunt re·
+conditae , de hac sectione plura proferre non licet ‚ ideoque his
+partem primam libri secundi, quae in investigatione {unctionum bi-
+narum variabilium ex data quadam differentialium relatione ver-
+satur ⁸, concludere cogor. Multo autem pauciora eirea partem· al·
+

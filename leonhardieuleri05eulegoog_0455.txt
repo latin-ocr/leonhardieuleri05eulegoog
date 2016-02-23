@@ -1,0 +1,36 @@
+CAPUT IV. 445
+
+Scholion 2.
+
+115. Quod in praecedente capite tacite assumsimus de
+quantitate constante variationi inventae adjicienda ‚ quippe quam
+pars integralis variationis sponte involvit ‚ hoc in istius problematis
+solutione accuratius exponere est visum. Cum scilicet in hujus-
+modi quaestionibus , quae ad formulas integrales reducuntur , per-
+petuo ad terminos integrationis ,sit‘ respiciendum ‚ siquidem integrale ’
+nihil aliud est nisi summa elementorum a termino dato seu initio
+ad. alium terminum seu finem continuatorum , haec consideratio
+prorsus essentialis est omni integrationi ‚ sine qua idea valoris in·
+tegralis ne consistere quidem potest. Quamobrem constitutis inte·
+grationis terminis initio scilicet et fine , statim ac variationis pars
+integralis ita est accepta ut pro initio evadat nulla , tum ejusmodi
+constantem adjici oportet, ut etiam partes absolutae pro eodem in·
+itio, destruantur , sicque universa variationis expressio ad nihilum
+redigatur. Quod cum fuerit ‘factum , ad finem integrationis de·
+mum progredi licet ‚ ut hoc pacto vera variatio formulae integralis
+'positae ab initio ad finem· extensae obtineatur. Haec autem va-
+riationum doctrina ad duplicIs · generis quaestiones accommodari
+potest3 dum in altero relatio inter variabiles x et y data assu-
+mitur , et formulae integralis itidem datae sVBoe variatio investiga·
+tur, postquam per -totam integrationis extensionem variabilibus x
+et 'y variationes quaecunque fuerint tributae , in 'altero autem„ ge-
+nere ipsa illa variabilium x et y relatio quaeritur ‚ ut formulae in·
+tegralis s va variatio certa proprietate sit praedita3 quemadmo-
+dum si ea formula maximum minimumve valorem recipere debeat,
+hanc variationem ⁸‘in nihilum abire necesse est. Ubi iterum duo
+casus se offerunt , prout maximum minimumve locum habere debet,
+vel quaecunque variationes ipsis x et “y tribuantur , vel si tantum
+hae variationes certae cuidam legi adstringantur. Ex quo mani·
+festum est ‚ hanc Theoriam multo latius patere , quam quidem ea
+adhuc in usum est vocata.
+

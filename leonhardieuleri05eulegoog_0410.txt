@@ -1,0 +1,39 @@
+1200 'CAPUT 11.
+
+differentiationem promoveretur. Veluti in figura ex puncto Y pri-
+mo per differentiationem pervenitur in Y‘, hinc vero per variationem
+in μ’ : inverso autem ordine primum ex puncto Y per variationem
+pervenitur in y , hinc vero per differentiationem in punctum ys,
+idem quod ante.
+
+Scholion 2.
+
+43. Theorema hoc latissime patet, neque enim ad casum
+duarum variabilium tantum restringitur, sed .veritati est etiam con·
+sentaneum, quotcunque variabiles in calculum. ingrediantur, quando·
+quidem in demonstratione solius illius variabilis cujus tam differen-
+tialc quam variatio consideratur, ratio habetur sine ullo respectu ad
+
+rig· ¹⁴· reliquas variabiles. Ne autem hic ulli dubio locus relinquatur, con·-
+sideremus superficiem quamcunque , cujus punctum quodvis Z per
+coordinatas ternas
+
+AX=x‚XY.·-·-:y‚et Yzzz
+
+definiatur, a quo si ad aliud punctum proximum ΖΙ in eadem super·
+ficie progrediamur , hae coordinatae suis differentialibus increscent.
+Tum vero aliam quamcunque superficiem concipiamus proximam,
+cujus puncta z et z‘ cum illis Z et Z( conferantur, quod fit per
+variationem. His positis perspicuum est, duplici modo ad punctum
+z' perveniri posse, altero per variationem ex puncto Z‘ altero per
+differentiale ex puncto z, sicque fore
+
+AxffgAxf÷6.AX‘=Ax-÷-3.Aae,
+ae‘y'zxsY'÷5.}(²Y‘:xy÷3·=vy2'
+y‘z‘2YsZ‘÷S.Y‘Z‘:yz÷3.yz,
+
+quod etiam de omnibus aliis quantitatibus variabilibus ad haec pun-
+cta referendis valet. Hinc autem luculenter sequitur sore
+
+δόω z ὂδτ, &By z osy, <iaz :z ἃδε.
+

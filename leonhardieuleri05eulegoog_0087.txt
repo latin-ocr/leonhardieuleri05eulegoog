@@ -1,0 +1,42 @@
+CAPUT tv, ’ ¹75
+
+Corollarium 1.
+
+106. In solutione hujus problematis iterum nova variabilis p
+introducitur, ex qua cum y conjunctim primo variabilis x, tum
+vero ipsa functio quaesita z determinatur.
+
+Corollarium 2.-
+
+107. Neque vero hinc istam novam variabilem p ex calculo
+elidere licet, uti ante usu venit3 propterea quod hic P et H func-
+
+tiones ipsius p denotant, quarum indoles jam in ipsum problema
+ingreditur.
+
+Corollariu'm 3.
+
+.108. Simili modo problema resolvetur, si permutandis x et
+Ha quantitas Ρ ita per y et q detur, ut sit pT-Qy -J-g, deno..
+tantibus Q et' Ξ functiones datas ipsius q. ·
+
+Scholion.
+
+109. In hoc capite constituimus ‚ejusmodi problemata trac·'
+
+tare, quorum conditio aequatione inter binas formulas differentiales
+az „-
+
+δεῖ) ....p,· (Ξ-Ξ) :zq et unam ex tribus variabilibus x, y et z ut·
+cunque exprimitur. Problemata autem bina evoluta ex hoc genere
+certos ,casus complectuntur, *quorum solutio peculiari methodo expe-
+diri potest, simulque ad formulas simpliciores perducitur. In po·
+steriori quidem relationem, inter p, q et a: ita assumsimus , ut sit
+cyr-:Px -4-11, seu ut in valore ipsius q.‚ per ‘p et x expressO,
+quantitas x unam dimensionem nonexcedat3 in priori ‚vero ita ut
+sit qux—t-T, seu ut 'in valore ipsius q, per p et x expresso,
+quantitas p unicam obtineat dimensionem. In genere autem no·
+
+tasse juvabit, tam quantitates p et x quam q et y inter se esse
+permutabiles. Cum enim sit ' ’
+

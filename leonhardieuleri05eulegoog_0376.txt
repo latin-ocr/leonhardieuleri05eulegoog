@@ -1,0 +1,41 @@
+³06 CAPUT lv..
+
+Scholion 2.
+
+494. Hoc problema ideo praemisi, quia alias aequ-:itiones
+differentiales tractare hie non sustineo, nisi quibus ejusmodi valor
+satisfaciet, ut v aequetur functioni cuicunque binarum novarum va·
+riabilium t et u, quae ab principalibus ετ, y, z ita pendeant, ut
+sit' quemadmodum assumsi
+
+tzoex÷ssz et uz'yymi-Sz,
+
+.Hujusmodi autern aequationes, quibus hoe modo satisfieri potest,
+esse homogcneaS, facile patet, ita ut aequatio¹ resolvenda constet
+nonnisi fot-mulis differentialibus ejusdem gradus, singulis per con-
+stantes quantitates multipiieatis, et inter se additia, qua appellatione
+aequationum homogeneamm jam in parte praecedente sum usus·
+proposit* ergo hujusmoffi aequatione homOgenea‚ ioco singularum
+formulam differentialium per elementa hx, By, &z formatarum substitu-
+antur valores hic inventi per eiementa Dtet‘ ὂιι formati, et tum singula
+membra, quatenus certam formulam differentialem ex elementis δι’
+
+et ὸα natam compiectuntur‚ „seorsim ad nihilum redigantur3 inde-
+
+que rationes {— et 7} determinentur; qnandoquidem quaestio non
+
+mm'circa has. ipsas quantitates, quam earum rationes versatur.
+Quoniam igitur duae'tantum res investigationi relinquuntur, si plu·
+ribus aequationibus sueiit satisfaciendum, ejusmodi aequationes ho-
+mogeneae hae ratione resolvi nequeunt, nisi casu quo ρΙυιεε illae ae-
+quationes ad duas tautum revocentur, id quod in sequentibus cla-
+
+rius explicabitur.
+
+Problema 86.
+
+295. Proposita aequatione homogenea primi gradus
+A‹}})-÷-B(}}')-÷-C(33=0‚
+
+investigare naturam -functionis v trium uariabilium x, y et z.
+

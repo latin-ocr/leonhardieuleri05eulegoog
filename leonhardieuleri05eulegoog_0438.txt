@@ -1,0 +1,37 @@
+428. CAPUT 111.
+
+cum ex doctrina vai rationum sit petita, quae tamen ab hoc an-
+gumento prorsus est aliena· , via ivero alia via. patet ad ejus de·
+monstrationem pertingendi. Tum vero hic accuratior cognitio fune·
+tionum diligenter est animadvertenda, qua ostendimus, formulam in-
+tegralem sVbx neutiquam ut functionem quantitatum x, y, p, q,r ,
+ete. spectari posse, nisi revera integrationem admittat. Natura
+enirn functionum semper hanc proprietatem habet adjunctam, ut
+,statim atque quantitatibus, quae eam ingrediuntur, valores determi-
+nati tribuuntur, ipsa functio 'ex iis formata determinatum adipisca—
+tur 'valorem3 veluti haec functio πῃ, si ponamus x— 2 et ,11:³2
+valorem accipit- -· 6. Longe secus autem evenit in formula inte-
+grali χρὼς, cujus valor pro casu x: 2 et y... 3 neutiquam as—
+signari potest, nisi inter y et x certa quaedam relatio statuatur3
+
+tum aut'em ea formula abit in functionem unicae variabilis For·
+mularum ergo integralium , quae integrari nequeunt, natura sollicite
+a natura functionum distingui debet, eum functiones, statim atque
+quantitatibus variabilibus, ex quibus conflantur , determinati valores
+tribuuntur, ipsae quoque determinatos valores recipiant, etiamsi va-
+riabiles nullo modo a se invicem pendeant3 quod minime evenit
+in formulis integralibus, ‚ quippe quarum deteiminatio omncs plane
+valores intermedios simul includit. Imprimis autem huic discrimini
+universa doctrina de ..maximis et ,minimis ‚ ad quam hie attendimuS,
+innititur, ubi formulas, quibus maximi minimive proprietates conciliari
+debet, necessario ejusmodi integrales esse oportet, quae per se in-
+tegra-tionem non admittant. ·
+
+s‘eho’iion 2.
+
+,9 7. Ad majorem Theo-rematis illustrationem ejusmodi for-
+mulam integralem- sVBx consideremus, quae per se sit integrabilis,
+ponamusque· exempli· gratia ‘
+
+svam ..τζ-ξ-ξ. :-.. ’ἕξ-ν
+

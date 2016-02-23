@@ -1,0 +1,43 @@
+334 , CAPUT *IL
+
+Scholion 1.
+
+⁴449. Quemadmodum in praecedente parte functiones arbi·
+trariae unius variabilis per applicatas curvarum quarumcunque sive
+regularium sive etiam irregularium repraesentari poterant, ita in
+hac parte functiones binarum variabilium arbitrariae per superfici-
+em pro lubitu descriptam repraesentari possunt. Ita si super plano,
+in quo binae coordInatae x et y more solito assumuntur, supersi.
+cies quaecunque expansa concipiatur ‚ tertia coordinata distantiam
+cujusvis superficiei puncti ab illo plano designans, functIOnem quam·- ,
+cunque binarum variabilium x ct y repraesentabit. Hocque modo
+aptissime vera idea hujusmodi functionum constitui videtur, cum ex
+ea non solum ratio harum functionum regularium sed etiam irregula-
+. rium perspiciatur.
+
+Scholion 2.
+
+450. Hic etiam notari convenit, hujusmodi functiones bina·
+rum var-labilium infinitis diversis modis etiam designari posse. Va-
+riatis enim in plano memorato binis coordinatis x et y, in binas
+alias t et u, ut sit
+
+t .·-·“··... ax -4- ssy et uz‘yx -÷- dy,
+
+manifestum est functionem binarum variabilium t et u seu Γ;(ε· et ιι)
+convenire eum functione ipsarum x et y seu r:(x et y); si enirn
+loco t et ιι illi valores pro ω et y substituantur utique prodit func*-
+tio duas tantum variabiics‘ x et y involvens. Atque multo gene·
+ralius si t aequatur functioni cuipiam datae ipsarum α,- et y, pari·
+terque u hujusmodi alii functioni, tum P:(t 'et ιι) facta substituam,
+ne abibit in functionem ipsarum x et y ita exprimendam Δῑ(ατ et y);
+non enirn nece-sse est ut idern functionis character Γ rationem com-
+positionis quasi denotans utrinque sit idem, cum hic in genere dc
+
+functionibus quibuscunque agatur. Quare si in sequentibus forte
+ejusmodi functiones occurrant
+
+ 
+
+ 
+

@@ -1,0 +1,43 @@
+³26 CAPUT Ι.
+
+Scholion 2.
+
+, 434. In calculo differentiali jam est ostensum, functionum
+plures variabiles involventium differentialia inveniri ‚ si unaquaeque
+variabilium seorsIm, tanquam sola esset variabilis, spectetur ‚ atque
+omnia differentialis inde nata in unam summam conjiciamur. Quod-
+si ergo differentiatio hoc modo instituatur, singulae istae operationes,
+deleto tantum differentIali ‚ praebebunt formulas differentiales, quas
+his signis
+
+ez), (ἓξ) et (ἐξ) · “
+indicamus: simulque intelligitur, quomodo etiam functionum quatuor
+pluresve variabiles involventium formulae differentiales sint invenien- “
+dae. Circa functiones autem trium variabilium x, y et z exempla.
+⁸ aliquot subjungamus , quibus earum ternas formulas differentiales
+exhibebimus.
+
+Exemplum 1.
+
+2135. Si functio trium variabilium sit
+
+v :3 aa: —l— &ld-72,
+
+ejus formulae differentiales ita se habebunt.
+
+Cum per differentiationem prodeat
+
+ἂν ..··.·: abac -ξ- βῦε] -4- Ὑὸς,
+
+manifestum est fore
+
+(ἐξ) :s α, ἐξ) ··..·.·; β, (Ξ-Ξ)’Σ v,
+
+sicque omnes tres formulas differentiales esse constantes.
+
+Exemplum 2.
+
+43 6. Si functio ενὶιιηι variabilium sit
+υ ιΞ ωλ ῃμ 3⁹ .
+eJus formulae differentiales ita se habebunt.
+

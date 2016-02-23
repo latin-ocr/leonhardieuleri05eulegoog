@@ -1,0 +1,41 @@
+’ 394 CAPUT Ι.
+
+fit manifestum, ubi enim calculus refertur ad lineam curvam, quam
+cum alia sibi proxima comparari oportet, per differentialia a puncto
+’ quovis curvae ad alia puncta ejusdem curvae progredimur ‚ quando
+autem ab hac curva ad alteram sibi proximam transilimus ‚ transi·
+tus quatenus est infinite parvus , fit per variationes. Idem evenit
+in superficiebus ad· alias sibi proximas relatis , ubi differentiali‘a in
+eadem superficie concipiuntur, variationibus vero ab una in altera-m
+transilitur. Eadem omnino est. ratio , si res analytice consideretur
+sine ullo respectu ad figuras geometricas, ubi semper variationes
+quantitatem variabilium a suis differentialibus sollicite distingui opor-
+tet, quem in finem variationes signo diverso indicari conveniet.
+
+Hypothesis.
+
+31. Variationem cujusque quantitatis variabilis littera δ
+eidem quantitati praefixa in posterum designabimus. ita ut δ x ,
+331, δι desiqnent variationes quantitatum x, y, z ‚· ac si V fue-
+
+rit expressio quaecunque ex iis conflata, ejus variatio hoc modo
+BV nobis indicabitur.
+
+Corollarium 1.
+
+32. Significat ergo δεε incrementum illud infinite parvum,
+quo quantitas x augeri concipitur, ut ejusdem valor variatus pro-
+deat3 ex quo vicissim intelligitur valorem variatum ipsius a: fore
+
+:c ÷ δω..
+
+.Corollarium 2.
+
+33. Quatenus ergo expressio V ex variabilibus x, y· et z
+conflatur, si earum loco scribantur valores variati
+ae÷3x‚ y-l-Ey et z-{ss-Ez,
+atque a valorehoc modo pro V resultante subtrahatur ipsa V re-
+siduum erit variatio BV..
+
+ 
+

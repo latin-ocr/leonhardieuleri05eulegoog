@@ -1,0 +1,37 @@
+cunr 1. 383
+
+curvam ita debere esse comparatam , ut si ejus loco alia curva
+quaecunque infinite parum ab illa discrepans substituatur, tempus
+descensus super ea idem prorsus sit futurum. Solutionem ergo ita
+institui oportet, ut dum curva' quaesita ‘tanquam 'data spectatur,
+calculus quoque ad aliam' curvam infinite parum ab ea discrepan-
+tem accommodetur, indeque discrimen quod in temporis expressio·
+nem redundat, supputetur3 tum enim ‘hoc ipsum discrimen nihilo
+aequale positum naturam curvae quaesitae declarabit. Curvae au·
+tem istae infinite parum a quaesita discrepante.. commodissime ita
+considerantur , ut applicatae singulis -abscissis respondentes particu-
+lis infinite parvis vel augeantur vel minuantur, hoc est, ut variatio-
+nes recipere concipiantur. Vul'go quidem sussjcit hujusmodi varia-'
+tionem in unica applicata constituisse, nihil autem impedit, quomi-
+nus pluribus atque adeo omnibus applicatis tales variationes assignen-¹
+tur cum semper ad eandem solutionem perduci sit necesse. Hoc
+autem modo non solum vis methodi multo luculentius illustratur, sed
+etiam inde solutiones quaestionum hujus generis pleniores obtinentur,
+unde etiam quaestiones ad alias conditiones spectantes enucleare
+⁴ licet. Quam ob causam omnino necessarium videtur, ut calculus
+
+variationum in amplissima extensione, cujus quidem est capax, per-
+tractetur. “
+
+Definitio 2.
+
+6. ‘Pro data relatione inter binas variabiles quantitates
+utraque aarum variari dicitur, si utraque seorsim incremento infi-
+nite parvo auqeri concipiatur ; unde patet quomodo intelligendum
+sit, si utrique variabili sua tribuatur variatio.
+
+Explicatio.
+
+7. si proposita sit aequatio quaecunque inter binas„ variabi-
+Ies x et y, qua earum relatio mutua exprimitur, haec relatio per
+

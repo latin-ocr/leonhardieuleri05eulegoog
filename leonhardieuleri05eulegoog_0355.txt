@@ -1,0 +1,45 @@
+capu-rr -Π, , 345
+
+unam cum ipsa functione u, sicque ad casum hujus problematis erit
+referenda, ex cujus resolutione si prodierit
+
+3⁹4* v
+u :z S :¹:⁹- ὃθμόῧν),
+exlatente jam S functione cognita ,· investigatIo ipsius functionis v
+jam nulla amplius laborat difficultate. Datur autem praeterea alius
+
+casus ad libri 11. partem priorem reducibilis, quern sequenti pro-
+blemate sum expediturus.
+
+ 
+
+Problema 78.
+
+465. Si in relationem propositam, ex qua trium variabi-
+lium τε, y, z functionem v definiri oportet, aliae formulae differen-
+tiales non ingrediuntur, nisi quae ex variabilitate binarum a: et y
+
+tantum naseuntur, tertio elemento ὃ z penitus excluso, functionem
+v investigare.
+
+Solutio.
+
+Quoniam in aequationem resolvendam, qua relatio proposita
+continetur, quantitas z uon ut variabilis ingreditur, quotcunque in·
+tegrationes suerint - instituendae, in iis ita quantitas· y tanquam esset
+constans tractari debet. Hujus ergo ..aequationis resolutio ad par·
+tem praecedentem est referenda, cum functio binarum tantum va-
+riabilium α.- , et y ex formularum differentialium relatione data sit
+investiganda3 quodsi, itaque negotium successerit et integrale fuerit
+inventum , in eo totidem occurrent functiones arbitrariae unius -va-
+tiabilis certo 'modo ex x et y conflatae, quot integrationibus suerit
+opus. Sit Γ : t hujusmodi functio, ubi t per x et y dari assumi-
+tur: ac· nune ut ista solutio ad praesens institutum accommodetur,
+ubi quantitas z variabilibus annumeratur, loco cujusque functionis
+arbitrariae P: t scribatur hic' F: (t et z), functio scilicet duarum
+
+variabilium, sicque habebitur integrale completum.
+Vol. ΙΙΙ. 44
+
+ 
+

@@ -1,0 +1,35 @@
+CAPUT Π.
+
+DE
+
+VARIATION E FORMULARUM DIFFERENTIALIUM DUAS {VA-
+RIABILES INVOLVENTIUM.
+
+Thetorema 1.
+
+37.
+
+V ariaiio differentialis semper aequalis est differentiali variatio-
+nis , seu est δόγ z: ὃ BV, quaecunque fuerit quantitas V, quae ’
+dum pet· differentialia crescit , etiam variationem recipit.
+
+Demonstratio.
+
+Quantitas variabilis V spectari potest tanquam applicata cur-
+vae cujuspiam ². quae auis differentialibus per eandem curvam pro·
+grediatur ‚ auis variationibus vero in aliam curvam illi proximam
+transiliat. Dum antem in ejusdem curvae punctum· proximum pro·
+· movetur, fit ejus valor :z V 4- BV, qui sit ετ. V‘, ideoque.
+&Y z..- V' - V5 ex quo variatio ipsius bv hoc eat BEV erit
+ὲ·- δΨ -δἾ, Verum BV‘ est valor proximus , in quem BV suo
+differentiali auctum abit , ita ut sit &v‘ z: BV -f- ὂδν ‚ seu .
+
+“ &Vs - &viz-:BER unde evidens est fore 33V233V, seu varia·
+
+tionem differentialis esse aequalem differentiali variationis , prorsus
+uti Theorema affirmat.
+
+Corollarium 1.
+
+38. ‚Hinc variatio differentialiS secundi ὂὸἾ ita definitur,
+

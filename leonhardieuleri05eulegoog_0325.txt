@@ -1,0 +1,36 @@
+‘CAPUT 111. 315
+
+ralis hic inventa ad, solas functiones continuas restringenda videtur,
+quandoquidem discontinuae applicationi et executioni adversantur.
+
+Problema 70.
+
+42 ¹. Proposita hac aequatione tertii gradus homogenea
+A (ξξξ) -4- 13 (ἐζ-35) -ε- c (ἓξ-ᾗῇ) -4-1) (ἒξ) = o ‚
+
+ejus integrale completum invenire.
+
+Solutim⁸
+
+Huic quoque aequationi, uti in praecedente problemate, satis·
+facere aequationem differentIalem simplicem primi gradus, satis lucu-
+lenter perspicitur, ex quo integrale particulare talem habebit formam
+
+z: :(y—†-nx).
+
+colligantur hinc singulae formulae differentiales tertii gradus ‚
+quae erunt
+
+ο
+
+quibus substitutis , ,quoniam divisio per
+ΓΜ = <y —4- nx) ‚
+
+succedit, nascitur ista aequatio
+An³÷Bn⁹÷Cn÷D==0‚
+
+cujus tres radices si fuerint n z: α, n z: β, n ..·-..···.. γ, evidens est,
+aequationi propositae satisfacere hanc formam '
+
+z=F:(y÷aoe)-†-A=(y÷f3x)-{-2=⁴(oy.÷vx)‚
+

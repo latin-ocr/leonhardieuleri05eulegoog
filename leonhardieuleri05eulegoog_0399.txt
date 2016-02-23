@@ -1,0 +1,35 @@
+CAPUT 1. . 339.
+
+curvae.· {investigandae ad superficies terminatrioes transferre liceat,
+quippe quarum indoles in utroque termino relationem mutuam inter
+variationes determinabit.
+
+. Scholion 2.
+
+¹9. Quemadmodum hic tres variabiles sumus contemplati,
+quarum relatio duabus aequationibus determinatur, ita etiam calcu-
+lus variabilium ad quatuor pluresve extendi potest, siquidem relatio
+per tot aequationes exprimatur ut per unicam variabilem reliquae
+omnes determinationem suam nanciscantur, etiamsi hujus casus illus·
+tratio non amplius ex Geometria tribus tantum dimensionibus in-
+elusa‘ peti queat, nisi forte tempus in subsidium vocare velimuS,
+fluvium 'continuum a superficie A B ad superficiem C D profluentem
+sed temporis lapsu jugiter immutatum considerantes, ita ut tum
+etiam temporis momentum sit assignandum, quo quaepiam fluvii
+vena a superficie AB ad superficiem CD porrecta maximi vel mi·
+nimi proprietate quadam sit praedita. Ad quas variabiles si insu-
+''per celeritatis mutabilitatem adjiciamus, haec maj0ri variationum nu·-
+mero illustrando inservire poterunt. ImprimIs autem hinc intelligi·
+tur, etiamsi omnes variabiles per unicam determinari assumantur,
+rationem investigationis tamen ab ea ubi duae tantum variabiles ad·
+mittuntur, maxime discrepare, ’ propterea quod singulis suae varia-
+tiones a reliquis non pendentes ⁴ tribui debent3 neque enim inde,
+quod inter variabiles ipsas certa quaedam relatio agnoscitur, ideo*
+quoque earum variationes ulli relationi adstrictae sunt censendae. ι
+Veluti ex casu ante allato manifestum est, ubi curva inter binas
+superficies ‘AB et CD porrecta et certa maximi minimive pr·op1ie-
+tate praedita utique ita est in se determinata, ut sumta coordinata-
+rum una, binae reliquae determinentur3 nihilo vero minus curvae
+variatae omnes quae in omnes plagas ab illa deflectere possunt,
+pro singulis coordinatis recipiunt variationes neutiquam a se invicem
+

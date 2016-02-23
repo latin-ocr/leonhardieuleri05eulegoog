@@ -1,0 +1,38 @@
+CAPUT 1. 393‘
+
+relatione inter se essent connexae. calculum igitur ita instrui con·
+venit, ut si singulis variabilibus, quae in calculum ingrediuntur, va·
+riationes tribuantur quaeeunque ‚ omnis generis expressionum , quae
+utcunque ex iis suerint conflatae ‚ variationes inde oriundae investi·
+gari doceantur ‚ quibus in genere inventis tum demum ejusmodi
+quaestiones evolvendae occurrunt‚ qualem relationem inter variabiles
+statui oporteat, ut variatio illa inventa sit vel nulla, uti in investi·
+gatione maximorum seu minimorum usu venit ‚ vel alio certo· quo·
+dam modo sit comparata, prout natura quaestionum exegerit. Hoc
+modo si istius calculi praecepta tradantur, nihil impedit, quo minus
+etiam e'Jusmodi quaestiones tractentur, in quibus statim relatio quae-
+dam inter variabiles tanquam data assumitur ac certae cujusdam
+expressionis ex iis formatae variatio ex variabilium variationibus
+nata desideratur. Ex quo intelligitur, huc calculum ad quaestiones
+plurimas diversissimi generis accomodari posse.
+
+Corollarium 1.
+
+28. Quaestiones ergo in hoc calculo tractandae huc re·
+deant, ut proposita expressione quacunque ex quotcunque varia..
+bilibus utcunque conflata ‚ ejus incrementum definiatur ‚ si singulae
+variabiles suis variationibus augeantur.
+
+Corollarium 2.
+
+29. Similis igitur omnino est calculus variationum calculo
+differentiali ‚ dum in utroque variabilibus incrementa infinite parva
+tribuuntur. Quatenus autem uti jam observavimus ‚ variationes a
+differentialibus discrepant, adeoque simul cum iis consistere possunt,
+eatenus summum discrimen inter utrumque calculum est agnoscendum.
+
+Scholion.
+
+3ο. ‘Ex observationibus supra allatis discrimen hoc maxime
+Vol. ΙΙΙ. 50
+

@@ -1,0 +1,37 @@
+450 CAPUT lv,
+
+integralem sQBx involvat, sed etiam haec functio Q aliam formu·
+
+⁴ lam integralem sbbae in se complectatur· , ubi quidem functio b
+
+nullam amplius formulam integralem implicat.
+
+corollarium 2.
+
+1 21. Sin autem et haec, functio b insuper formulam inte·
+gralem in se involvat, jam satis perspicuum est, quomodo tum so·
+lutionem institui oporteat3 siquidem tum valores N', P', ρ’, R‘, etc.
+partes insuper recipient, a postrema formula integrali pendentes.
+
+Scholion.
+
+12 2. Quomodocunque ergo formula integralis sva fixerit
+complicata , praecepta· hactenus exposita omnino sufficiunt ad ejus
+variationem investigandam, etiamsi forte complicatio fuerit infinita.
+Cum igitur omnes expressiones binas variabiles implicantes, quarum
+variationes unquam sint investigandae, vel a formulis integralibus
+sint liberae , vel unam pluresve in se complectantur, easque vel
+simplices vel complicatas utcunque, huic Calculi variationum parti,
+quae circa duas variabiles versatur, abunde satisfactum videtur, ut
+vix quiequam amplius 'desiderari queat. Quamobrem ad formulas
+triam variabilium progrediamur ac primo quidem tales, quarum re-
+latio per geminam aequationem defin-iri ponitur, ut binae variabiles
+tanquam functiones tertiae spectari queant, sive haee duplex relatio
+'sit cognita , sive ex ipsa variationis indole investiganda.
+
+ 
+
+ 
+
+ 
+

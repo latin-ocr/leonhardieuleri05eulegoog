@@ -1,0 +1,42 @@
+CAPUT VI. 131
+
+‘Problema 35.
+
+192. Si posito Bzzzpbx-i-qby debeat esse zsz÷Nq,
+existentibus M et N functionibus quibusvis binarum variabilium x et y3
+ex quadam solutione particulari, qua constat esse κεῖν, indolem
+
+⁰ functionis z in genere determinare.
+
+solutio.
+
+Valor iste particularis V, qui est functio ipsarum ω et y dif-
+
+ferentietur, sitque ·
+
+-ΒἾΞΡόω-ὶ-Ωὒῃ,
+qui valor'quia loeo z substitutus satisfacit, ubi fit pt: P et qtzQ,
+erit per hypothesin
+
+V :- M P -†- N Ω.
+Jam generatim ponatur zszf: T, sitque
+
+ὂ Τ :2 R ὒ x —4- S 3²31,
+et nune quaeri oportet hane functionem T. Ex differentiatione autem
+eruimus
+
+p:({{):1³f:¹r÷v1zf‘:‘r,-et
+q:(}}).:Qf2T-÷-xisf⁷2·r.
+
+Quare oum sit
+z--Mp-Q-quvfz T, erit .
+Vs: T:(MP-÷-NQ)f; T÷V(MR÷NS>1⁷: Τ,
+et ob V—MP4N Ω per hypothesin habebitur
+
+Jam nosse non oportet R, sed sufficit considerari formulam
+N ὃ ω--Μό y, quae ope multiplicatoris eujusdam integrabilis reddi
+potest. Solutio ergo faciliime huc redit, ut ex conditione prae-
+
+scripta. z :z M p -1- Ν q formetur aequatio realis
+sz-..Rfflax - Moy),
+

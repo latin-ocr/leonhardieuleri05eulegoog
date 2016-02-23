@@ -1,0 +1,35 @@
+ 
+
+CAPUT I.
+nn
+
+REsoLUT1oNE AEQUATIONUM s1MPL1clss1MARUM
+,υΝῙοΑΜ FORMULAM DIFFERENTIALEM
+INVOLVENTiUM.
+
+Probllema‘ 61.
+
+379·
+
+Indolem functionis binarum variabilium -x et y indagare, si ejus
+
+. quaepiam formula differentialis tertii gradus evanescat.
+
+Solutio.
+
+Sit z functio illac quaesita, et oum ejus sint ‚quatuor formu-
+lae differentiales tertii gradus -
+
+ὓ 3 ³ ³
+· · 25), (ἐξ-ρ), (ὃ-Ξ-ὂῑ-ε) et (εἲ-ἑ),
+’ prout quaelibet harum nihilo aequalis statuitur, totidem Habemus ca·
+sus evolvendos. .
+
+‘¹ 1. Sit igitur primo (ἒξ-ξ) “·..·’·.·. 0 , et sumta y constante prima·
+integratio praebet ’ .
+2³³3.) z Γ = y,
+tum simili modo secunda integratio dat ⁴
+(ΞῑεὌΞωΓτυψΔ τυ, ,.
+unde tandem fit
+2:3x2r294aeA.:y-†—2:y·,·
+

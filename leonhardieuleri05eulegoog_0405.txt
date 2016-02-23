@@ -1,0 +1,41 @@
+CAPUT r , 695
+
+corollarium 3.
+
+34. Hactenus ergo omnia perinde se habent atque in cal
+=culo differentiali , ac si V fuerit functio quaecunque ipsarum x, y
+et z, sumto ejus differentiali more solito tantum ubique loco ὃ scri-
+batur δ, et habebitur Ηεῂιε variatio BV.
+
+Scholion l.
+
+35. Quoties ergo V est functio quaecunque quantitatum va·
+riabilium 'x 2 y ‚ {z ‚ ejus variatio iisdem regulis inde elicitur
+ac differentiale ejus , ex quo calculus variationurn prorsus cum
+calculo differentiali congruere videri posset, cum sola signi diversi-
+tas levis sit momenti. Verum probe perpendendum est, hic non otn-
+nes quantitates , quarum variationes requiruntur , in genere functio-
+num comprehendi posse3 quamobrem etiam in definitione vocabulo
+expressionis sum usus ‚ cui longe ampliorem significatum attribuo.
+Quatenus enim ad relationem mutuam variabilium respicere non li·
+cet, quia est incognita, eatenus ejusmodi expressiones seu formulae,
+in quas variabilium differentialia atque etiam integralia ingrediuntur,
+non amplius tanquam' merae functiones variabilium spectari possunt,
+iae'formularum tam'diff'erentialium quam integralium variatio pecu-
+liaria praecepta postulat; sicque totum negotium hue redit, ut
+quemadmodum formularum utriusque generis variationes investigari
+conveniat, doceamus, ex quo tractatio nostra evadit bipartita.
+
+Scholion 2.
+
+36. In ipsa autem tractatione maximum exoritur discrimen
+ex numero variabilium‚ qui si binarium superet, vix adhuc perspici-
+tur, quomodo calculus sit expediendus. Cum enim pluribus intro·
+ductis variabilibus‚ etiam· differentialium consideratio longe aliter ex-
+pendatur, dum plerumque binarum tantum differentialia ita inter se
+
+compaiari solet, quasi reliquae variabiles manerent constantes, simi· ·
+5 0 ·
+
+ 
+

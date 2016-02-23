@@ -1,0 +1,41 @@
+CAPUT ᾗ 391
+
+iicet, -unde z valorem determinatum obtineat, itidem variatio ipsius z
+ab “ utraque* iliarum a· et y pendere censenda est, quandoquidem
+sive atterutra. sive ambae mutentur, alia variatio ipsius z resultare
+
+debet.
+
+Corollarium 2.
+
+23. Quod hic de variatione unius z observatum est, per·
+inde de binis reliquis est intelligendum„ ita ut singularum variatio-
+nes sint tanquam functiones binarum variabilium considerandae3 quo-
+niam vero inter x et y et z aequatio datur, perinde est, qua·
+rumnam binarum functiones concipiantur, quia functio ipsarum y
+et z per aequationem ad functionem ipsarum a: et y revocari
+potest, si scilicet loco z suus valor per a: et y expressus substi-
+
+tuatur.
+
+Scholion 1.
+
+24. Hac variationurn institutione erit utendum, si superfi-
+cies fuerit investiganda, quae maximi minimive quapiam proprie-
+tate sit praedita, quandoquidem calculum' turn ita instrui oportet ut
+eadem proprietas in superficies illi proximas ac variatas aeque com-
+petat. Deinde cum in =curvis maximi minimive proprietate praedi-
+tis amborum terminorum ratio praescribi soleat, ut vel in datis
+
+punctis, vel ad datas lineas curvas, vel adeo superficies terminen-
+tur, similis conditio hic est admittenda, ut superficies quaerenda
+
+circumquaque definiatur, vel data quadarn superficie circumscriba-
+tur; cujus posterioris conditionis ut ratio haberi possit, omnino ne-
+cesse est, ut omnibus tribus coordinatis variationes generanssimae
+a se invicem. neutiquam pendentes tribuantur, quo eae deinceps in
+extrema ora ad naturam superficiei terminantis, accommodari que·
+ant. Hic quidem fatendum est, methodum maximorum et minimo-
+rum vix adhuc, ad hujusmodi investigationes esse promotam, tantas·-
+que difficultates hic· occurrere, ad quas superandas multo majora
+

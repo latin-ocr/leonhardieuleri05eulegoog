@@ -1,0 +1,37 @@
+482 CAPUT vn.
+
+Scholion.
+
+168. Quando autem ratio functionis z non constan ea·
+que 'demum ex conditione variationis elici debet , ita nt ipsa varia·
+tio &zzz ω nullam plane determinationem patiatur, quemadmodum
+fit si formula ss vaxay valorem maximum minimumve obtinere
+debeat3 tum omnino necessarium est , ut singula variationis in·
+ventae dssvaby membra ita reducantur, ut· ubique post signum
+integrationis duplicatum non valores differentiales variationis 32:oe
+sed haec ipsa variatio occurrat3 cujusmodi reductione jam supra
+in formulis binas tantum variabiles involventibus sumus usi. Talis
+autem reductio ‚ cum pro formulis integralibus duplicatis minus sit
+consueta, accuratiorem explicationem postulat. Quem in finem ob-
+servo ‚ ,hujusmodi reductione perveniri ad formulas simpliciter inte-
+g1·ales‚· in quibus alterutra tantum quantitatum x et y pro variabili
+habeatur , altera ut‘ constante spectata, ad quod indicandum , ne
+signa praeter necessitatem multiplicentur, talis forma sTDx denota-
+bit integralae formulae differentialis Tbx , dum quantitas y pro
+constanti habetur; similique modo intelligendum est in hac forma
+sTDy solam quantitatem y ut variabilem considerari, quod eo ma-
+gis perspicuum est, cum hac conditione omissa , hae formulae nul-
+lum plane significatum essent habiturae. Neque ergp in posterum
+opus est declarari, si T ambas variabiles x et 'y complectatur,
+utra earum in formulis integralibus simplicibus s T dx vel sfrby,
+
+sive variabilis accipiatur , curn* ea soli ‚ quus differentiale expri· ’
+
+mitur ‚ pro variabili sit habenda. In formulis autem duplicatis
+ss V bxby perpetuo tenendum est , alteram integrationem ad solius
+x ‚ alteram vero ad solius y variabilitatem adstringi, perindeque
+esse ‚ utra integratio prior instituatur.
+
+Pro‘blema 21.
+1 6 9. Variationem formulae integralis duplicatae ssvboe ὂῃ,
+

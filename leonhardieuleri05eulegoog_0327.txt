@@ -1,0 +1,38 @@
+CAPUT ΠΙ. 317-
+Scholion.
+
+424. Casus autem· blnarum radicum imaginariarum, quibus
+functiones arbitrariae nullum usum habere videntur, ratione functio·
+num continuarum quae satisfaciunt, uberiorem evolutionem merentur.
+Formuiae autem h1s casibus in integrale ingredientes semper ad
+hane formam reduci possunt
+
+1.':·v(cos <1³41s-1·sin·<1>)÷A:v(cos··--<D ls- 1· sin Φ),
+
+unde primum si functiones sint potestates, hujusmodi valores colli·
+guntur ·
+
+A ν’* cos. n Φ -Ι- Β v’⁸ sin. ηΦ, seu
+A ν’* cos, (n Φ -i- α),
+
+quotcunque enim hujusmodi valores, constantes A, n et α utcunque ·
+
+mutando adhiberi possunt. Deinde si functiones denotent logarith·
+mos , prodeunt tales valores Alv -Ι- ΒΦ. Tertio si functioneS,
+sint exponentialeS, oriuntur hi =
+
+ev ⁰⁰⁸·sp [A cos. (υ sin. Φ) 4- B sin. (v sin. Φ)]
+Ξ Α ev ⁰⁰⁸· Φ cos. (υ sin. Φ -i- α).
+
+et generalius ὁ ,
+Α ιε’οη 000· οΦ cos. (υο sin. n Φ -1- α).
+
+Plurimae autem aliae hujusmodi formulae ex doctrina imaginariorum
+elici possunt, quae uteunque cum his combinatae, pro parte inte-
+grali ex binis rsdIcibus imaginariis nata usurpari poterunt, unde
+infinita functionum multitudo nascitur, quae solutionem completam -
+mentiri ‘videtur , neque tamen pro completa perinde haberi potest,
+atque usu venit iis casibus, quibus ornnes radices sunt reales. Hic
+autem observetur, nullum adhuc problema mechanicum seu physicum
+occurrisse, quod ab hujusmodi casu penderet.
+

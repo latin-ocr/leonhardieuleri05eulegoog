@@ -1,0 +1,37 @@
+‘CAPUT V. 109
+
+functioni cuipiam ipsarum q et 9, functionis z indolem in genere
+investigare.
+
+Solutio.
+
+, Sit Ρ functio ina ipsarum p et x, ct Q functio illa ipsarum
+q et 9, quac inter sc aequales csse debent. Cum igitur sit PzQ,
+ponatur utraque zv„ ut sit Pzzv et sz. Ex priori ergo
+p definire licebit per a: et v, ex posteriori vero q per 9 ct υς
+¹quo sacto in formula Bzzpr —l-qdy, cum p ait functio ipsarum
+x et v, integretur pars ρόιι· sumto v constante, aitque spdx ΞΒ,
+simili modo cum q sit functio ipsarum 9 et v, integretur quoque
+altera pars qby sumto v constante, sitque squ: ὃς erit ergo.
+R: functioni ipsarum x et v, et S r: functioni ipsarum 9 et v.
+At sumto etiam v variabili sit
+
+‘BR-:pr—-l-va, et Ds=qby÷Ubv.
+unde *colligitur
+&z :3 BR -4- DS - Dv(V -1- U),
+
+quac forma quia intcgra‘bilis esse debet, oportet sit v—i-sz zv.
+Quare solutio problematis his duabus aequationibus continebitur
+
+v—l-Uzzftv et zzR-l-—S-fzv,
+
+Scilicet cum ρ, R ct V dentur per x et v; atquc q, S et U per
+9 et v, per aequationempiiorem definitur v ex x et y, qui va·
+lor in altera substitutus ‘determinabit functionem quaesitam z per
+x et y.
+
+corollarium 1.
+
+162. Quoties ergo q ejusmodi functioni ipsarum p, x, 9
+aequari debet, ut inde aequatio formari possit, ex cujus xaltera
+

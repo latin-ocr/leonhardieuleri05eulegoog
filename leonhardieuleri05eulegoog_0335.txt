@@ -1,0 +1,34 @@
+CAPUT 1. ' 325
+
+ut una pluresve variabilium ex hujusmodi formulis diss'erentialibus
+prorsus excedant.
+
+Scholion 1.
+
+433. Nihil etiam. impedit, quominus quantitas v ut iunctio
+trium variabilium x, 9 et z spectari possit, etiamsi sorte duas tan·
+tum involvat, dum ‘scilieet ratio compositionis ita est comparata, ut
+tertia quasi casu excesserim quod eo minus est mirandum , cum
+idem· in functionibus tam *unius quam duarum variabilium evenire
+possit. Quoniam enim functiones unius variabilis commodissime per
+applicatas cujuspiam lineae curvae repraesentari solent, siquidem
+pro curvae natura applicatae ejus ut‘ certae functiones abscissae :c
+spectari -possunt, casu quo linea curva abit in lineam rectam axi
+parallelam, etsi tum applicata quantitati constanti aequatur, propterea
+tamen ex illa idea generali, qua ut functio abscissae x· spectatur,
+neutiquam excluditur3 neque enim si quaeratur , qualis sit functio
+9 ipsius x? incongrue is respondere est censendus, qui dieat hanc
+functionem 9 aequari quantitati constanti. Quod deinde ad functIO-
+nes binarum variabilium x et 9 attinet, quas semper p'er interval· ,
+la, quibus singula cujusdam* ¹superficiei puncta a quopiam plano di-
+stant, repraesentare licet, dum binae variabiles x et 9 in hoe pla-
+no accipiuntur, manifestum est 'utique superficiem ita comparatam
+esse posse , ut functio iila,·vel per solam x, vel per solam 9 de· ,
+terminetur. Quin etiam si superficies fuerit plana ipsique ini plano
+parallela ‚ functio illa· adeo abit in quantitatem constantem-3 neque
+propterea ‘minus tanquam functio binarum variabilium considerari
+debebit. Quamobrem, etiam quando tractatio clrca functiones trium
+variabilium versatur , in eo genere etiam, ejusmodi functiones , quae
+tantum vel per binas vel unicam trium variabilium x, 9 et z deq
+terminantur, vel adeo ipsae sunt'quantitates constantes, '
+

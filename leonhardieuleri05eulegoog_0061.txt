@@ -1,0 +1,42 @@
+ 
+
+Haec determinatio isto nititur fundamento, quod si S fuerit ejusmo-
+di functio ipsarum x, y et z, quae posito xz-..a et z: c eva·
+
+noscat, etiam formula differentialis (3—5) )eodem casu evanescat.
+
+Corollarium 1.
+
+65. Reducitur ergo resolutio hujus problematis ad integra-
+
+tionem aequationis differentialis
+
+&z —- VB x z: ο,
+in qua quantitas y ut constans spectatur, etiamsi V contineat om-
+nes tres litteras x, y et z. Dabitur ergo utique multiplicatur M,
+qui hanc aequationem integrabilem reddat, ut sit
+
+MBz -— vax ··.;-·.. ὃὸ,
+existente S certa quadam functione ipsarum x, y et z.
+
+Corollarium 2.
+
+66. Invento autem boe multiplicatore M Indeque integrali S,
+quantitas z ita per binas variabiles ,τ et y definietur, ut sit
+S: f: y, ubi f: y denotat functionem quameunque ipsius y sive
+continuam sive etiam discontinuarn‚ ob eujus naturam integratio pro
+completa est habenda.
+
+corollarium 3.
+
+67. Cum hoe modo relatio inter z5 x, y, fuerit definita,
+
+erit ea ita differentiata, ut omnes tres litterae x, y et z variabiles
+sumantur
+
+ 
+
+ubi quantitas Q ex suo differentiam
+
+vol. 111. , ’ 7
+

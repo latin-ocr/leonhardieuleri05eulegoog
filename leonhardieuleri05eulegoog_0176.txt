@@ -1,0 +1,36 @@
+ 
+
+CAPUT ΙΙ.
+
+DE
+
+UNA FORMULA DIFFERENTIALI SECUNDI GRADUS PER
+RELIQUAS QUANTtTATEs UTCUNQUE DATA.
+
+Problema 41.
+
+245.
+
+Si z debeat esse ejusmodi functio ipsarum x et y, ut formula se-
+
+cundi gradus (gi-ff) aequetur functioni datae ipsarum x et 9⁰, indo-
+·lem functionis. z investigare. ’
+
+801ιιῐίο.
+
+sit P functio ista data ipsarum x et y, ita ut esse debeat
+(ἓξ-ξ ΣΡ. Sumatur jam. y constans, et cum sit
+
+ὃ .. (ἐξ) ΣΞ ὒαςᾷίἷ), erit ὃ . (ἒ) Ξ Pax,
+unde integrando· prodit
+(33²⁶) :z s 1²3ae -1- Const.
+
+Ubi in integratione sPDx quantitas y pro constante habetur, et
+constans adjicienda functionem quamcunque ipsius y denotabit, ita
+ut haec prima. integtatio praebeat ’
+
+(Ξ-ᾒΞῘΡᾷω-ψ-ΐεῃ..
+Nune iterum quantitate y ut constante spectata ‚ erit
+
+δι = bx (Ξ-Ξ) sen &z Ξ axspbx 4- Dxf 2 y,
+
